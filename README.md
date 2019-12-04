@@ -1,2 +1,2 @@
-# information_encrytion_java_app
-A Simple Java GUI Application to Encrypt and Decrypt Information
+# Information Encrytion Java App
+A Simple Java GUI Application to Encrypt and Decrypt Information.
